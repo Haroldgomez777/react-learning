@@ -19,6 +19,8 @@ const Dropdown = () => {
           <Link className="text-gray-700 block px-4 py-2 text-sm" to="/usereducer">UseReducer</Link>
           <Link className="text-gray-700 block px-4 py-2 text-sm" to="/todolist">UseReducerTodo</Link>
           <Link className="text-gray-700 block px-4 py-2 text-sm" to="/expenssive">useMemo</Link>
+          <Link className="text-gray-700 block px-4 py-2 text-sm" to="/callbackcounter">useCallback</Link>
+
 
 
           {/* <a href="#" className="text-gray-700 block px-4 py-2 text-sm" role="menuitem" tabIndex="-1" id="menu-item-1">Support</a>
